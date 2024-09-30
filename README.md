@@ -7,7 +7,7 @@ This script helps you automatically find the maximum batch size that can be used
 - Logs successful batch sizes and training times.
 - Finds the most efficient batch size without manual tuning.
 ## Requirements
--Python 3.x
--PyTorch with GPU support
--CUDA-enabled GPU
--Python packages: torch, time
+- Python 3.x
+- PyTorch with GPU support
+- CUDA-enabled GPU
+- Python packages: torch, time
